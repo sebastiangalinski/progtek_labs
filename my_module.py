@@ -1,5 +1,5 @@
 # Sebastian Galinski och Noor Fouad Raheem
-# datum: 2024-02-XX
+# datum: 2024-02-16
 # DD1318 lab 3
 
 import text_encryption_function
